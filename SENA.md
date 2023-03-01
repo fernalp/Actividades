@@ -3,30 +3,27 @@
 ## 1. Fase Análisis
 
 * [x] Actividades de proyecto 1
+
   * [x] Instructor Técnico
-    1. [ ] Elaboración de diagramas y plantillas para casos de uso del proyecto. GA2-220501093-AA1-EV02.
-    2. [ ] Foro temático: Lenguaje Unificado de Modelado (UML). GA2-220501093-AA1-EV01.
-    3. [ ] Diagramas y documentación de actividades del proyecto. GA2-220501093-AA1-EV03.
-    4. [ ] Elaboración de los diagramas del Modelo de dominio del proyecto. GA2-220501093-AA2-EV01.
-    5. [ ] Mapa conceptual sobre validación de documentos. GA2-220501093-AA3-EV01.
-    6. [ ] Elaboración del informe de análisis con listas de chequeo para la validación de artefactos. GA2-220501093-AA3-EV01.
-    7. [ ] Foro temático. Licenciamiento de software. GA2-220501094-AA1-EV01.
-    8. [ ] Diseño de las fichas técnicas para la recolección de la información. GA2-220501094-AA1-EV02.
-    9. [ ] Especificación de los referentes técnicos del hardware - software y estimación de las condiciones económicas. GA2-220501094-AA1-EV03.
-    10. [ ] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores. GA2-220501094-AA2-EV01.
-    11. [ ] Diseño de tablas comparativas sobre presupuestos de hardware y software. GA2-220501094-AA3-EV01.
-    12. [ ] Propuesta técnica y económica para la implementación del proyecto. GA2-220501094-AA3-EV02.
-    13. [ ] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. GA2-220501094-AA4-EV01.
-    14. [ ] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica. GA2-220501094-AA4-EV02.
+  
+    1. [ ] Mapa mental sobre ingeniería de requisitos. GA1-220501092-AA2-EV01.
+    2. [ ] Formulación del proyecto de software. GA1-220501092-AA3-EV02 - incluye Formulario de recolección.
+    3. [ ] Especificación de los requerimientos funcionales y no funcionales del software. GA2-220501092-AA4-EV01 (Matriz y Documento SRS).
+    4. [ ] Informe de evaluación de los requerimientos. GA1-220501092-AA4-EV02. (Prototipos y Casos de Prueba)
+    5. [ ] Infografía sobre metodologías de desarrollo de software. GA1-220501093-AA1-EV02 (Pantallazo evidencia interactiva).
+    6. [ ] Documento proyecto de desarrollo de software. GA1-220501093-AA1-EV04.
+    
   * [ ] TICS
-    1. [ ] Cuestionario procedimientos aritméticos. GA2-240201528-AA1-EV01.
+  
+    1. [ ] Mapa conceptual - Sotware y servicios de internet. GA1-220501046-AA1-EV01.
+    2. [ ] Taller Utilización de las herramientas de Ofimática. GA1-220501046-AA2-EV01.
     2. [ ] Planteamiento de ecuación. GA2-240201528-AA2-EV01.
-    3. [ ] Video sustentación. GA2-240201528-AA3-EV01.
-    4. [ ] Algoritmo para el cálculo de áreas y volúmenes. GA2-240201528-AA4-EV01.
+    
   * [ ] Instructor Ingles
-    1. [ ] Cuestionario. GA2-240202501-AA1-EV01.
-    2. [ ] Vídeo entrevista virtual. GA2-240202501-AA1-EV02.
-    3. [ ] Documento escrito. GA2-240202501-AA2-EV03.
+  
+    1. [ ] Cuestionario. GA1-240202501-AA1-EV01.
+    2. [ ] Vídeo presentación. GA1-240202501-AA1-EV02.
+    3. [ ] Folleto. GA1-240202501-AA1-EV03.
 
 * [x] Actividades de proyecto 2
   * [x] Instructor Técnico
@@ -57,7 +54,7 @@
 ## 2. Fase Planeación
 
 * [ ] Actividades de proyecto 3
-    *
+    * [-] 
 
 * [ ] Actividades de proyecto 4
     * [ ] Instructor Técnico
