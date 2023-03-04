@@ -2,37 +2,37 @@
 
 ## 1. Fase Análisis
 
-* [x] Actividades de proyecto 1
+* [ ] Actividades de proyecto 1
 
-  * [x] Instructor Técnico
+  * [ ] Instructor Técnico
   
-    1. [ ] Mapa mental sobre ingeniería de requisitos. GA1-220501092-AA2-EV01.
-    2. [ ] Formulación del proyecto de software. GA1-220501092-AA3-EV02 - incluye Formulario de recolección.
-    3. [ ] Especificación de los requerimientos funcionales y no funcionales del software. GA2-220501092-AA4-EV01 (Matriz y Documento SRS).
-    4. [ ] Informe de evaluación de los requerimientos. GA1-220501092-AA4-EV02. (Prototipos y Casos de Prueba)
-    5. [ ] Infografía sobre metodologías de desarrollo de software. GA1-220501093-AA1-EV02 (Pantallazo evidencia interactiva).
+    1. [x] Mapa mental sobre ingeniería de requisitos. GA1-220501092-AA2-EV01.
+    2. [x] Formulación del proyecto de software. GA1-220501092-AA3-EV02 - incluye Formulario de recolección.
+    3. [x] Especificación de los requerimientos funcionales y no funcionales del software. GA2-220501092-AA4-EV01 (Matriz y Documento SRS).
+    4. [x] Informe de evaluación de los requerimientos. GA1-220501092-AA4-EV02. (Prototipos y Casos de Prueba)
+    5. [x] Infografía sobre metodologías de desarrollo de software. GA1-220501093-AA1-EV02 (Pantallazo evidencia interactiva).
     6. [ ] Documento proyecto de desarrollo de software. GA1-220501093-AA1-EV04.
     
-  * [ ] TICS
+  * [x] TICS
   
-    1. [ ] Mapa conceptual - Sotware y servicios de internet. GA1-220501046-AA1-EV01.
-    2. [ ] Taller Utilización de las herramientas de Ofimática. GA1-220501046-AA2-EV01.
+    1. [x] Mapa conceptual - Sotware y servicios de internet. GA1-220501046-AA1-EV01.
+    2. [x] Taller Utilización de las herramientas de Ofimática. GA1-220501046-AA2-EV01.
     
-  * [ ] Instructor Inglés
+  * [x] Instructor Inglés
   
-    1. [ ] Cuestionario. GA1-240202501-AA1-EV01.
-    2. [ ] Vídeo presentación. GA1-240202501-AA1-EV02.
-    3. [ ] Folleto. GA1-240202501-AA1-EV03.
+    1. [x] Cuestionario. GA1-240202501-AA1-EV01.
+    2. [x] Vídeo presentación. GA1-240202501-AA1-EV02.
+    3. [x] Folleto. GA1-240202501-AA1-EV03.
 
 * [x] Actividades de proyecto 2
 
   * [x] Instructor Técnico
   
-    1. [ ] Elaboración de diagramas y plantillas para casos de uso del proyecto. GA2-220501093-AA1-EV02.
+    1. [x] Elaboración de diagramas y plantillas para casos de uso del proyecto. GA2-220501093-AA1-EV02.
     2. [ ] Foro temático: Lenguaje Unificado de Modelado (UML). GA2-220501093-AA1-EV01.
     3. [ ] Diagramas y documentación de actividades del proyecto. GA2-220501093-AA1-EV03.
-    4. [ ] Elaboración de los diagramas del Modelo de dominio del proyecto. GA2-220501093-AA2-EV01.
-    5. [ ] Mapa conceptual sobre validación de documentos. GA2-220501093-AA3-EV01.
+    4. [x] Elaboración de los diagramas del Modelo de dominio del proyecto. GA2-220501093-AA2-EV01.
+    5. [x] Mapa conceptual sobre validación de documentos. GA2-220501093-AA3-EV01.
     6. [ ] Elaboración del informe de análisis con listas de chequeo para la validación de artefactos. GA2-220501093-AA3-EV01.
     7. [ ] Foro temático. Licenciamiento de software. GA2-220501094-AA1-EV01.
     8. [ ] Diseño de las fichas técnicas para la recolección de la información. GA2-220501094-AA1-EV02.
@@ -110,7 +110,3 @@
 * Actividades de proyecto 5
     * Próximamente...
 
-
-
-* Actividades de proyecto 2
-    *
