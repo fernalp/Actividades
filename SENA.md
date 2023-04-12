@@ -2,9 +2,9 @@
 
 ## 1. Fase Análisis
 
-* [ ] Actividades de proyecto 1
+* [x] Actividades de proyecto 1
 
-  * [ ] Instructor Técnico
+  * [x] Instructor Técnico
   
     1. [x] Infografía sobre la Teoría General de Sistemas. GA1-220501092-AA1-EV01.
     2. [x] Identificación de procesos organizacionales. GA1-220501092-AA1-EV02
@@ -13,7 +13,7 @@
     5. [x] Especificación de los requerimientos funcionales y no funcionales del software. GA2-220501092-AA4-EV01 (Matriz y Documento SRS).
     6. [x] Informe de evaluación de los requerimientos. GA1-220501092-AA4-EV02. (Prototipos y Casos de Prueba)
     7. [x] Infografía sobre metodologías de desarrollo de software. GA1-220501093-AA1-EV02 (Pantallazo evidencia interactiva).
-    8. [ ] Documento proyecto de desarrollo de software. GA1-220501093-AA1-EV04.
+    8. [x] Documento proyecto de desarrollo de software. GA1-220501093-AA1-EV04.
     
   * [x] TICS
   
@@ -48,20 +48,20 @@
   
     1. [x] Cuestionario. GA2-240202501-AA1-EV01.
     2. [x] Vídeo entrevista virtual. GA2-240202501-AA1-EV02.
-    3. [ ] Documento escrito. GA2-240202501-AA2-EV03. (D)
+    3. [x] Documento escrito. GA2-240202501-AA2-EV03. (D)
 
 ## 2. Fase Planeación
 
 * [ ] Actividades de proyecto 3
 
-  * [ ] Instructor Técnico
+  * [x] Instructor Técnico
   
     1. [x] Bases conceptuales de lógica proposicional. GA3-220501093-AA1-EV01.
     2. [x] Taller de resolución de problemas de algoritmos en pseudocódigo y diagramas de flujo. GA3-220501093-AA1-EV02.
     3. [x] Fundamentos de programación estructurada y estructuras cíclicas. GA3-220501093-AA2-EV01.
     4. [x] Taller aplicando funciones y procedimientos en la solución de algoritmos. GA3-220501093-AA2-EV03.
     5. [x] Bases teóricas de estructuras de almacenamiento en memoria. GA3-220501093-AA3-EV01.
-    6. [ ] Resolución a problemas algorítmicos aplicando estructuras de almacenamiento. GA3-220501093-AA3-EV02.
+    6. [x] Resolución a problemas algorítmicos aplicando estructuras de almacenamiento. GA3-220501093-AA3-EV02.
     
   * [ ] Instructor Física
   
