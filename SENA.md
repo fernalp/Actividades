@@ -27,7 +27,7 @@
     2. [x] Vídeo presentación. GA1-240202501-AA1-EV02.
     3. [x] Folleto. GA1-240202501-AA1-EV03.
 
-* [] Actividades de proyecto 2
+* [x] Actividades de proyecto 2
 
   * [x] Instructor Técnico
   
@@ -40,11 +40,11 @@
   * [ ] Instructor Matemáticas
   
     1. [x] Cuestionario procedimientos aritméticos. GA2-240201528-AA1-EV01.
-    2. [ ] Planteamiento de ecuación. GA2-240201528-AA2-EV01.
-    3. [ ] Video sustentación. GA2-240201528-AA3-EV01.
-    4. [ ] Algoritmo para el cálculo de áreas y volúmenes. GA2-240201528-AA4-EV01.
+    2. [x] Planteamiento de ecuación. GA2-240201528-AA2-EV01.
+    3. [x] Video sustentación. GA2-240201528-AA3-EV01.
+    4. [x] Algoritmo para el cálculo de áreas y volúmenes. GA2-240201528-AA4-EV01.
     
-  * [ ] Instructor Inglés
+  * [x] Instructor Inglés
   
     1. [x] Cuestionario. GA2-240202501-AA1-EV01.
     2. [x] Vídeo entrevista virtual. GA2-240202501-AA1-EV02.
